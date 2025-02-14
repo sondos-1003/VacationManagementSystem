@@ -1,5 +1,5 @@
 # Vacation Management System
-# Sondos Khaled Abu Idaq
+# Sondos Khaled Suliman Abu Idaq
 A C# project utilizing Entity Framework Core and LINQ for handling employee management and vacation requests in a company.
 
 # Features
